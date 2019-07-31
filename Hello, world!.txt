@@ -1,4 +1,4 @@
-print("Hello, world!!!");
-print("Hello!");
-print hello my dear friend 
-print the better the more
+print("Hello, world!!!");;
+print("Hello!");;
+print("Hello my dear friend»);;
+print("The better the more");;
